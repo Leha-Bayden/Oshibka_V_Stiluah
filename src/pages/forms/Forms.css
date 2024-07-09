@@ -1,0 +1,14 @@
+.forms{
+    border: 1px solid black;
+    background-color: aqua;
+    border-radius: 20px;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.form{
+    margin: 0px;
+    z-index: -1;
+}
+
